@@ -1,1 +1,1 @@
-# Super-Resolution-Using-GAN
+# Image_Captioning
